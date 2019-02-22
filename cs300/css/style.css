@@ -1,0 +1,73 @@
+
+body
+{
+	background-color: #97b11b;
+}	
+
+#topbanner
+{
+  margin: auto;
+  position: relative;
+  border: 5px solid white;
+  border-color: #329013;
+  background-color: #1a3127;
+  color: #97b11b;
+  border-spacing: 10px;
+  width:975px;
+  
+}
+#mainnav
+{
+  margin: auto;
+  border: 5px solid white;
+  border-top: none;
+  border-color: #329013;
+  background-color: #1a3127;
+  color: #97b11b;
+  width:975px;
+  text-align: center;
+  font-size: 20px;
+
+
+}
+#mainnav a:hover
+{
+  background-color: #88ff1d;
+  color: black;
+}
+/*text-indent to indent paragraphs only in content*/
+#content
+{
+  margin: auto;
+  border: 5px solid #329013;
+  border-top: none;
+  border-color: #329013;
+  background-color: #1a3127;
+  color: #97b11b;
+  width:975px;
+  padding: 20px;
+  text-indent: 50px;
+
+
+}
+#footer
+{
+  margin: auto;
+  border: 5px solid white;
+  border-top: none;
+  border-color: #329013;
+  background-color: #1a3127;
+  padding: 5px;
+  color: #97b11b;
+  width:975px;
+  text-align: center;
+}
+li
+{
+  display: inline;
+}
+
+a{
+  color: #ffff67;
+
+}
